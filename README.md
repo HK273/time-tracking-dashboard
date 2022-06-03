@@ -15,8 +15,8 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Add solution URL here](https://your-solution-url.com)
+- [Live site](https://your-live-site-url.com](https://hk273.github.io/time-tracking-dashboard/)
 
 ### What I learned
 
